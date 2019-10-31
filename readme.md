@@ -1,1 +1,2 @@
-first project to build a basic web page
+first project to build a basic web page 
+was too easy
